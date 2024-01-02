@@ -36,7 +36,6 @@ git clone https://github.com/mafiat2/YOUSIF16
 
 cd YOUSIF16
 
-python M16.py
-
+python YOUSIF.py
 
 [💀] 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗔𝗥𝗘 𝗣𝗔𝗜𝗗 𝗦𝗢 𝗬𝗢𝗨 𝗡𝗘𝗘𝗗 𝗣𝗘𝗥𝗠𝗜𝗦𝗦𝗜𝗢𝗡 𝗧𝗢 𝗨𝗦𝗘 𝗠𝗔𝗙𝗜𝗔 𝗧𝗢𝗢𝗟![Picsart_23-12-14_19-57-30-694](https://github.com/mafiat2/YOUSIF16/assets/141683265/30517278-8e27-4bbd-842f-a0ad3a6fe117)
